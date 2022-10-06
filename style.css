@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre&family=Peralta&display=swap');
 
-
 *{
     margin: 0;
 }
@@ -59,7 +58,7 @@ nav ul{
 .gameInfo{
     padding: 34px;
     font-family: 'Peralta', cursive;
-    padding-left: 200px;
+    padding-left: 100px;
 }
 
 .gameInfo h1{
